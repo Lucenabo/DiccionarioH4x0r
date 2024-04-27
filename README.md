@@ -2,7 +2,7 @@
 
 ---
 
-![img.png](img.png)
+![img.png](instructions/img.png)
 
 Este mini programa es una adaptación de "EL LENGUAJE HACKER" de [![Static Badge](https://custom-icon-badges.demolab.com/badge/-MoureDev-blue?style=flat&logoColor=white&logo=repo)](https://github.com/mouredev/retos-programacion-2023/blob/main/Retos/Reto%20%231%20-%20EL%20LENGUAJE%20HACKER%20%5BFácil%5D/ejercicio.md).
 
